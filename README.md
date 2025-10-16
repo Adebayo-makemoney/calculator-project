@@ -2,9 +2,9 @@
 
 A modern, fully-featured calculator with dark/light theme support, keyboard input, and comprehensive error handling.
 
-![Light Theme Calculator Screenshot](https://adebayo-makemoney.github.io/calculator-project/screenshot.jpeg)
+![Light Theme Calculator Screenshot](https://adebayo-makemoney.github.io/calculator-project/Screenshot.jpeg)
 
-![Dark Theme Calculator Screenshot](https://adebayo-makemoney.github.io/calculator-project/screenshot1.jpeg)
+![Dark Theme Calculator Screenshot](https://adebayo-makemoney.github.io/calculator-project/Screenshot1.jpeg)
 
 ## Features
 
