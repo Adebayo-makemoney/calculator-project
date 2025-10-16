@@ -42,11 +42,11 @@ The design focuses on simplicity, responsiveness, and smooth user experience —
 ## 🖼️ Screenshots
 
 <p align="center">
-  <img src="Screenshot.jpeg" alt="Calculator Project Screenshot" width="400px" />
+  <img src="Screenshot.jpeg" alt="Calculator Project Screenshot" width="80%" />
 </p>
 
 <p align="center">
-  <img src="Screenshot1.jpeg" alt="Calculator Project Screenshot" width="400px" />
+  <img src="Screenshot1.jpeg" alt="Calculator Project Screenshot" width="80%" />
 </p>
 ---
 
