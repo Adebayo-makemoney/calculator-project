@@ -1,60 +1,136 @@
-# Interactive Calculator
+<h1 align="center">🧮 Calculator Project</h1>
 
-A modern, fully-featured calculator with dark/light theme support, keyboard input, and comprehensive error handling.
+<p align="center">
+  <a href="https://adebayo-makemoney.github.io/calculator-project/"><strong>🌐 Live Demo</strong></a> •
+  <a href="https://github.com/Adebayo-makemoney"><strong>👨‍💻 My GitHub</strong></a>
+</p>
 
-![Light Theme Calculator Screenshot](https://adebayo-makemoney.github.io/calculator-project/Screenshot.jpeg)
+---
 
-![Dark Theme Calculator Screenshot](https://adebayo-makemoney.github.io/calculator-project/Screenshot1.jpeg)
+## 📖 About the Project
 
-## Features
+This is a **simple yet functional calculator web app** built with **HTML, CSS, and JavaScript**.  
+It performs basic arithmetic operations, demonstrates DOM manipulation, and showcases frontend problem-solving skills.  
+The design focuses on simplicity, responsiveness, and smooth user experience — ideal for showcasing your web development skills.
 
-- **Basic Operations**: Addition, subtraction, multiplication, division
-- **Dark/Light Theme**: Toggle between themes with persistent preference
-- **Keyboard Support**: Full keyboard input for all operations
-- **Error Handling**: Comprehensive error handling for edge cases
-- **Responsive Design**: Works on all screen sizes from 320px and up
-- **Accessibility**: Full ARIA labels and keyboard navigation support
-- **Animations**: Smooth transitions and button press animations
+---
 
-## Tech Stack
+## 🛠️ Built With
 
-- **HTML5**: Semantic structure with ARIA attributes
-- **CSS3**: CSS Variables, Grid, Flexbox, Animations
-- **JavaScript**: ES6 Classes, Event Handling, Local Storage
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,git,github" alt="Tech Stack" />
+</p>
 
-## Keyboard Shortcuts
+- **HTML5** — structure & layout  
+- **CSS3** — styling, responsiveness, and hover effects  
+- **JavaScript (ES6)** — core logic and interactivity  
+- **Git & GitHub** — version control and deployment  
 
-- **Numbers (0-9)**: Input numbers
-- **Operators (+, -, *, /)**: Basic operations
-- **Enter/=**: Calculate result
-- **Escape/Delete**: Clear calculator
-- **Backspace**: Delete last character
-- **.**: Decimal point
+---
 
-## Error Handling
+## ✨ Features
 
-- Division by zero
-- Input length limits
-- Invalid operations
-- Very large numbers (shows in scientific notation)
+✅ Clean and responsive user interface  
+✅ Performs addition, subtraction, multiplication, and division
+✅ keyboard input support ⌨️   
+✅ Clear/reset button for quick start  
+✅ Error handling for invalid inputs (e.g., divide by zero)  
+✅ Easy to understand and extend for new features  
 
-## Browser Support
+---
 
-Works in all modern browsers including:
-- Chrome 60+
-- Firefox 55+
-- Safari 12+
-- Edge 79+
+## 🖼️ Screenshots
 
-## Installation
+<p align="center">
+  <img src="screenshot.jpeg" alt="Calculator Project Screenshot" width="400px" />
+</p>
 
-1. Clone or download the project files
-2. Ensure all files are in the same directory:
-   - `index.html`
-   - `styles.css`
-   - `script.js`
-3. Open `index.html` in your browser
+<p align="center">
+  <img src="screenshot1.jpeg" alt="Calculator Project Screenshot" width="400px" />
+</p>
+---
 
-## License
+## 🚀 Getting Started
 
-MIT License - feel free to use this project for learning or personal use.
+You can run this project locally in a few steps:
+
+```bash
+# Clone this repository
+git clone https://github.com/Adebayo-makemoney/calculator-project.git
+
+# Navigate into the folder
+cd calculator-project
+
+# Open in your browser
+start index.html
+```
+
+That’s it! No dependencies or installation required — just open and start calculating 🧮
+
+---
+
+## 📂 Folder Structure
+
+```
+calculator-project/
+│
+├── index.html
+├── styles.css
+├── script.js
+├── screenshot.jpeg
+├── screenshot1.jpeg
+└── README.md
+```
+
+---
+
+## 🧠 Future Improvements
+
+Here are some planned enhancements to take the project further:
+
+- Add **sound effects or button animations** ✨  
+- Improve mobile responsiveness 📱  
+- Extend functionality (e.g., percentage, modulo, scientific mode) 🔢  
+
+---
+
+## 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adebayo-makemoney&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adebayo-makemoney&theme=tokyonight" width="48%"/>
+</p>
+
+---
+
+## 🤝 Contributing
+
+Contributions are always welcome!  
+If you’d like to improve this project:
+
+1. **Fork** the repository  
+2. **Create a branch:** `git checkout -b feature-name`  
+3. **Commit changes:** `git commit -m "Add new feature"`  
+4. **Push to branch:** `git push origin feature-name`  
+5. **Open a Pull Request**
+
+---
+
+## 📬 Contact
+
+<p align="center">
+  <a href="https://github.com/Adebayo-makemoney">
+    <img src="https://img.shields.io/badge/GitHub-Adebayo--makemoney-black?logo=github&style=for-the-badge" />
+  </a>
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?logo=gmail&style=for-the-badge" />
+  </a>
+  <a href="https://adebayo-makemoney.github.io/portfolio-website/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-green?logo=vercel&style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+⭐ **Don’t forget to star this repo if you like my work!**  
+Made with ❤️ by [**Adebayo-makemoney**](https://github.com/Adebayo-makemoney)
