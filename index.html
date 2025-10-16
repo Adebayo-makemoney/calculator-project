@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Calculator</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Interactive Calculator</h1>
+            <div class="theme-toggle">
+                <span class="toggle-label">Light</span>
+                <label class="toggle-switch">
+                    <input type="checkbox" id="theme-toggle">
+                    <span class="slider"></span>
+                </label>
+                <span class="toggle-label">Dark</span>
+            </div>
+        </header>
+        
+        <div class="calculator">
+            <div class="display">
+                <div class="previous-operand"></div>
+                <div class="current-operand">0</div>
+            </div>
+            <div class="buttons-grid">
+                <button class="clear" data-action="clear">C</button>
+                <button class="delete" data-action="delete">DEL</button>
+                <button class="operator" data-operation="÷">÷</button>
+                <button class="operator" data-operation="*">×</button>
+                
+                <button data-number="7">7</button>
+                <button data-number="8">8</button>
+                <button data-number="9">9</button>
+                <button class="operator" data-operation="-">-</button>
+                
+                <button data-number="4">4</button>
+                <button data-number="5">5</button>
+                <button data-number="6">6</button>
+                <button class="operator" data-operation="+">+</button>
+                
+                <button data-number="1">1</button>
+                <button data-number="2">2</button>
+                <button data-number="3">3</button>
+                <button class="operator" data-operation=".">.</button>
+                
+                <button data-number="0">0</button>
+                <button class="equals" data-action="calculate">=</button>
+            </div>
+        </div>
+        
+        <footer>
+            <p>Use keyboard for faster calculations | Press 'C' to clear | Press 'DEL' to delete</p>
+        </footer>
+    </div>
+
+    <script src="index.js"></script>
+</body>
+</html>
